@@ -1,4 +1,4 @@
-export const barChartData = {
+const barChartData = {
   type: "bar",
   data: {
     labels: ["Lions", "Monkeys", "Zebras", "Eagles", "Horses"],
