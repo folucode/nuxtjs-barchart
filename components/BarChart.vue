@@ -7,7 +7,6 @@
 <script>
 import { Chart, registerables } from 'chart.js';
 import barChartData from "../data/chart-data";
-barChartData
 
 export default {
     name: "BarChart",
